@@ -81,9 +81,7 @@ Decision Tree	~96%	~90%	~88%
 
 🚀 How to Run
 1️⃣ Clone the repository
-git clone https://github.com/your-username/amazon-alexa-sentiment.git
-cd amazon-alexa-sentiment
-
+git clone https://github.com/shailjam14/Amazon-Alexa-Sentiment-Analysis/
 2️⃣ Install dependencies
 pip install -r requirements.txt
 
